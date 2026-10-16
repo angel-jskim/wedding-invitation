@@ -27,12 +27,15 @@ window.WEDDING = {
   },
 
   gallery: [
-    { src: "images/g1.jpg", caption: "Scene #1 — 웨딩 화보 (보정 들어감)" },
-    { src: "images/g2.jpg", caption: "Scene #2 — 흑백으로 분위기 냄" },
-    { src: "images/g3.jpg", caption: "Scene #3 — 70년대 결혼사진 감성" },
-    { src: "images/g4.jpg", caption: "Scene #4 — 얼굴 클로즈업 (신랑 측 요청)" },
-    { src: "images/g5.jpg", caption: "Scene #5 — 좌우 반전. 다른 사진 맞음" },
-    { src: "images/g6.jpg", caption: "Scene #6 — 신랑의 진짜 사랑, 아아" },
+    { src: "images/w1.jpg", caption: "Scene #1 — 진짜 웨딩 화보 (돈 씀)" },
+    { src: "images/w2.jpg", caption: "Scene #2 — 같은 사진, 줌인 (돈 아까워서)" },
+    { src: "images/w3.jpg", caption: "Scene #3 — 흑백으로 한 번 더 우려먹기" },
+    { src: "images/s1.jpg", caption: "Scene #4 — 비하인드: 판교 셀카 원본" },
+    { src: "images/s2.jpg", caption: "Scene #5 — 단정 버전 (커피 압수함)" },
+    { src: "images/s3.jpg", caption: "Scene #6 — 흑백으로 분위기 냄" },
+    { src: "images/s4.jpg", caption: "Scene #7 — 70년대 결혼사진 감성" },
+    { src: "images/s5.jpg", caption: "Scene #8 — 좌우 반전. 다른 사진 맞음" },
+    { src: "images/s6.jpg", caption: "Scene #9 — 신랑의 진짜 사랑, 아아" },
   ],
 
   accounts: [
